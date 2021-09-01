@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tansen Keshri aka " ProffessorLOGAN "</h1>
-<h3 align="center">A passionate Gamer,Developer who is trying to build his own FantasyWorld.</h3>
+<h2 align="center">Hi 👋, I'm Tansen Keshri aka  " ProffessorLOGAN "</h2>
+<h4 align="center">A passionate Gamer,Developer who is trying to build his own FantasyWorld.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proffessorlogan&label=Profile%20views&color=0e75b6&style=flat" alt="proffessorlogan" /> </p>
 
