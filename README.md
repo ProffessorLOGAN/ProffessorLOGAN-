@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Github and linkedin profile**
 
-- 🌱 I’m currently learning **MERN stack,Next.js,soket.io,flutter**
+- 🌱 I’m currently learning **MERN stack,Next.js,soket.io,flutter,node Redux, tailwind css**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
