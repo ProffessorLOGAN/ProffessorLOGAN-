@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **My Communication skills with Strangers😅**
 
-- 💬 Ask me about **Ideas,web development,discord community**
+- 💬 Ask me about **Ideas,Gaming, web development, Esports , discord community**
 
 - 📫 How to reach me **tansenkeshri3@gmail.com**
 
