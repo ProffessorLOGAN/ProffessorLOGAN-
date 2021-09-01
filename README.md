@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tansen Keshri aka " ProffessorLOGAN "</h1>
-<h3 align="center">A passionate Gamer,Web Developer who is trying to build his own FantasyWorld.</h3>
+<h2 align="center">Hi 👋, I'm Tansen Keshri aka " ProffessorLOGAN "</h2>
+<h4 align="center">A passionate Gamer,Web Developer who is trying to build his own FantasyWorld.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proffessorlogan&label=Profile%20views&color=0e75b6&style=flat" alt="proffessorlogan" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Communication,English,learning Skills**
 
-- 💬 Ask me about **Ideas,web developement ,Gaming ,Esports ,Discor communities ...**
+- 💬 Ask me about **Ideas,web developement ,Gaming ,Esports ,Discord communities ...**
 
 - 📫 How to reach me **tansenkeshri3@gmail.com**
 
